@@ -1,1 +1,1 @@
-list_name = ['Mari','Leonid','Max']
+['Mari','Leonid','Max']
